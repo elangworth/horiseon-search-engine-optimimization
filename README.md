@@ -1,5 +1,4 @@
-# Code Refactor Starter Code
-
+https://elangworth.github.io/horiseon-search-engine-optimimization/
 ## User Story
 
 AS A marketing agency, I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines.
